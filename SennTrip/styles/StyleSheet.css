@@ -1,0 +1,69 @@
+﻿body {
+    direction: rtl;
+    background-image: url('../grass.jpg');
+    background-size:cover;
+}
+
+div #title {
+    color: black;
+    background-image: url('../imag/woodgay.jpg');
+    text-align: center;
+}
+
+div #videx {
+    color: white;
+    text-align:center;
+}
+div #videoa{
+    text-align:center;
+    margin-top:50px;
+}
+
+div #green {
+    color:white;
+    text-align:center;
+}
+
+video{
+    width:700px;
+    margin-top:50px;
+}
+div #triptext{
+    color:white;
+    text-align:center;
+}
+
+div #videob {
+    text-align: center;
+}
+
+div #videoc {
+    text-align: center;
+}
+
+
+
+button {
+    text-align: center;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-right: 400px;
+}
+
+div #ktaim {
+    text-align: center;
+    text-decoration-style: solid;
+    color:white;
+}
+
+div #media {
+    text-align:center;
+    color:white;
+}
